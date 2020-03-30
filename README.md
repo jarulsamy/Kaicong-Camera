@@ -1,4 +1,8 @@
-# Python-Template
+# Kaicong-Camera
+
+This repo contains many of the initial scripts used to develop [robotTracking](https://github.com/jarulsamy/robotTracking)
+
+It is no longer maintained, and is mostly used as a reference.
 
 ## Support
 
